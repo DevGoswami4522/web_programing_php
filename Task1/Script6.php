@@ -1,7 +1,3 @@
-
-<!-- Script 6: PHP script with HTML including bold, italic, and heading tags
- -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,8 +7,8 @@
 </head>
 <body>
 <?php    
-    echo "<h1>Welcome to My PHP Page</h1>";
-    echo "<p>This is a simple PHP script that includes HTML tags.</p>";
+    echo "<h1>php and html Page</h1>";
+    echo "<p>This is a html and php tegs.</p>";
     echo "<p>This is <b>bold</b> text.</p>";
     echo "<p>This is <i>italic</i> text.</p>"; ?>
 </body>
