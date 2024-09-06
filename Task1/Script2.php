@@ -1,4 +1,4 @@
-<!-- Script 2: Display a message with variables $name and $age -->
+
 
 <?php
     $name = "dev";
