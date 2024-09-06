@@ -1,7 +1,5 @@
-<!-- Script 5: Declare variables $firstName and $lastName and print -->
-
 <?php
-$firstName = "Nishant";
-$lastName = "Bakhatyapuri";
-echo "My full name is $firstName $lastName.";
+$fName = "dev";
+$lName = "goswami";
+echo "My full name is $fName $lName.";
 ?>
