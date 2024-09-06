@@ -1,5 +1,3 @@
-
-
 <?php
     $name = "dev";
     $age = 22;
